@@ -4,4 +4,4 @@
 - Prioridade: normal ou alta
 - Titulo com no minimo 5 caracteres
 - Anexo opcional
-- Anexo com limite de 10 MB   
+- Anexo com o limite de 10MB
