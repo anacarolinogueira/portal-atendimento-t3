@@ -5,3 +5,4 @@
 - Titulo com no minimo 5 caracteres
 - Anexo opcional
 - Anexo com o limite de 10MB
+- Descricao com no minimo 10 caracteres
